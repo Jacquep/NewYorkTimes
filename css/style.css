@@ -1,0 +1,55 @@
+
+input {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+#header {
+	text-align: center;
+	background-color: #171754;
+	font-size: 40px;
+	color: white;
+	padding-bottom: 50px !important;
+    padding-top: 50px !important;
+
+}
+
+.border {
+	border: solid #171754;
+	padding: 0px !important;
+}
+
+
+#searchParameters {
+	background-color: #171754;
+	padding:15px;
+	color: white;
+	display: block;
+	font-size: 21px;
+	
+}
+
+#topArticles {
+	background-color: #171754;
+	padding:15px;
+	color:white;
+	display: block;
+	font-size: 31px;
+
+}
+
+.articleDiv {
+	background-color: #6d89a7;
+	color:white;
+	border: solid 8px #171754;
+	padding: 8px;
+
+}
+
+h3 > a {
+	color: white;
+}
+
+
+
